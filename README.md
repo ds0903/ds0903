@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## Hi there, my name is Daniel👋
+### My networks 🔥
+___
+- [Telegram](https://t.me/ds0903)
+- [Linkedin](https://www.linkedin.com/in/danylo-fedorenko-4647902a8/)
 <!--
 **ds0903/ds0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
