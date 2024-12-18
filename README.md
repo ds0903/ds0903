@@ -1,5 +1,3 @@
-## Hi there, my name is Daniel👋
-### My networks 🔥
 ___
 - [Telegram](https://t.me/ds0903)
 - [Linkedin](https://www.linkedin.com/in/danylo-fedorenko-4647902a8/)
